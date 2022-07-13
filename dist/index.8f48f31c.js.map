@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS;AACT,QAAQ,CAAC,IAAI,CAAC,gBAAgB,CAAC,YAAY,EAAE,WAAU,EAAG,CAAC,CAAC","sources":["src/main.js"],"sourcesContent":["//psyduck\r\ndocument.body.addEventListener('touchstart', function(){ });\r\n\r\n\r\n"],"names":[],"version":3,"file":"index.8f48f31c.js.map"}
